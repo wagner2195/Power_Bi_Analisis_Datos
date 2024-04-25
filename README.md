@@ -45,10 +45,29 @@ Proyecto realizado con la contribución del equipo de [@DatData](https://www.ude
 
 - [Reporte de Ingresos](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EWYaBmZAcgpCvHYUT00jjEoBne71VhOYIEUj5CbgJ3wmOA?e=bglooF)
 
+  ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/3f56d471-49a9-4831-82c1-b2250d907b2a)
+
+  ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/ca571204-219e-49fd-9869-70d766e9ed2f)
+
  - [Informe de Ventas de Video Juegos](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EUcoRhoSJAhIoQ852CYsETQBSuiAJxSflwJBbNAsAU9zFg?e=rkdV7M)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/c383399f-dcd5-4fd5-ab42-04d11d432ed5)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/3449872c-701c-4db0-a88b-0ddaf59a2aff)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/26668884-092c-4177-b1de-13a86626eebc)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/2f7e6a32-f01c-4c5e-8fa0-3ac394c54a8a)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/a565feda-2f64-4cae-b04a-cc29d20f917f)
+
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/5a0359af-2435-4634-8399-c96122a88adc)
 
  - [Informe de Indicadores Mundiales](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EXcR8em6vD9AnFl_piBogWUBhtPT5_X-ns-aFgEQabaXeQ?e=eDL0tc)
 
+   ![image](https://github.com/wagner2195/Power_Bi_Analisis_Datos/assets/46799763/c1efdf1a-68d4-4c0f-8cb6-f4033bd9f26d)
+
+   
 ## Agradecimientos
 
 - [DatData](https://www.datdata.com/)
